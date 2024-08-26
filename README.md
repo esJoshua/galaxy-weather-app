@@ -1,14 +1,14 @@
 # MyWeather App
 Web application to get weather data by city
 
-try it by clicking here
+try it by clicking ==> [Galaxy Weather App](galaxy-weather-app-je.netlify.app)
 
 
 ## Project Setup
 
-Node v20.17.0
-Get an apiKey from https://openweathermap.org/
-Create a .env file following the example in .env.example
+* Node v20.17.0
+* Get an apiKey from https://openweathermap.org/
+* Create a .env file following the example in .env.example
 
 ```sh
 npm install
