@@ -1,7 +1,7 @@
 # MyWeather App
 Web application to get weather data by city
 
-try it by clicking ==> [Galaxy Weather App](galaxy-weather-app-je.netlify.app)
+try it by clicking ==> [Galaxy Weather App](https://galaxy-weather-app-je.netlify.app/weather)
 
 
 ## Project Setup
