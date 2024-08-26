@@ -7,7 +7,9 @@ try it by clicking ==> [Galaxy Weather App](https://galaxy-weather-app-je.netlif
 ## Project Setup
 
 * Node v20.17.0
-* Get an apiKey from https://openweathermap.org/
+* Get an apiKey from https://openweathermap.org/, debes crear una cuenta, validar el email
+   y luego en tu sesión de usuario en la pagina https://openweathermap.org/ tendras disponible tu apiKey
+  
 * Create a .env file following the example in .env.example
 
 ```sh
